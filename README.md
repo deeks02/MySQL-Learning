@@ -31,3 +31,13 @@ It consists of 4 main tables and are as follows;
      * total_amount: Total amount of the order.
 
 ![DB Table](https://github.com/deeks02/MySQL-Learning/blob/main/Screenshots/Screenshot%2001.png)
+![DB Table cont.](https://github.com/deeks02/MySQL-Learning/blob/main/Screenshots/Screenshot%2002.png)
+
+### Adding data to tables:
+Here I have used __INSERT INTO__ to add sample data into rows and columns, along with __SELECT * FROM__ to display the contents of the table.
+Disclaimer: 
+> The names, emails, and locations used are all sample values and do not represent real-life information.
+
+![Insert 1](https://github.com/deeks02/MySQL-Learning/blob/main/Screenshots/Screenshot%2003.png)
+![Insert 2](https://github.com/deeks02/MySQL-Learning/blob/main/Screenshots/Screenshot%2004.png)
+![Insert 3](https://github.com/deeks02/MySQL-Learning/blob/main/Screenshots/Screenshot%2005.png)
