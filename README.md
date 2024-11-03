@@ -62,3 +62,6 @@ Here I added a new row data to the products table and deleted the same to illust
 Here I have used __INNER JOIN__, __LEFT JOIN__, __RIGHT JOIN__ on the tables to illustrate the relational property of the table using Primary and Foreign keys and in 2 different formats.
 ![Joins 1](https://github.com/deeks02/MySQL-Learning/blob/main/Screenshots/Screenshot%2010.png)
 ![Joins 2](https://github.com/deeks02/MySQL-Learning/blob/main/Screenshots/Screenshot%2011.png)
+
+
+### This is the EOF but it is just the beginning of my SQL journey.
