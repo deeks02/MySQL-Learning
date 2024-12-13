@@ -1,4 +1,4 @@
-# This is a practice project to show my knowledge of SQL tables and queries
+## This is a practice project to show my knowledge of SQL tables and queries
 
 ### Overview:
 This project is a relational database designed to manage sales data for a business. It utilizes MySQL to store and organize information about products, categories, customers, and transactions.
